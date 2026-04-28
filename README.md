@@ -1,19 +1,35 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 💰 SpendWise - Expense Tracker
 
-# Run SpendWise with backend auth
+SpendWise is a professional, scalable expense tracker built with **React Native & Expo**.  
+It helps users manage personal and professional finances with a clean interface, modular structure, and insightful analytics.
 
-This repo contains a React Native Web SpendWise app plus a local auth backend (email/password and social OAuth).
+---
 
-## Run Locally
+## 🚀 Features
 
-**Prerequisites:** Node.js
+- 📊 **Interactive Dashboard** – Get a clear overview of your finances at a glance  
+- 💵 **Transaction Management** – Add, edit, and delete expenses and incomes  
+- 🏷️ **Category Tracking** – Organize spending by categories (Food, Travel, Bills, etc.)  
+- 📈 **Charts & Analytics** – Visualize spending patterns with professional graphs  
+- 🔔 **Reminders & Alerts** – Stay on top of due payments or budgets  
+- 🌙 **Dark Mode Support** – Switch seamlessly between light and dark themes  
+- 📱 **Cross-Platform** – Works on both iOS and Android via Expo  
+- 🎨 **Polished UI/UX** – Clean, modern design with smooth navigation  
+- ⚙️ **Modular Architecture** – Scalable folder structure for easy maintenance  
+- 🔒 **Secure Storage** – Local persistence with AsyncStorage/SQLite  
+- 🔗 **Automatic Payment Logging** – Whenever you make a payment through apps like Paytm, Google Pay, or PhonePe, SpendWise seamlessly records the transaction into your ledger. Since the app is connected to your phone, all payment activity is tracked in real time, ensuring your expense records stay accurate and up to date without manual entry.
 
-1. Install dependencies:
-   `npm install`
-2. Copy `.env.example` to `.env.local` and configure values.
-3. Start the auth backend:
-   `npm run auth:server`
-4. In a second terminal, start the app:
-   `npm run dev`
+---
+
+## 🛠️ Tech Stack
+
+- **React Native** (Expo)  
+- **React Navigation**  
+- **Context API / Redux** (for state management)  
+- **Victory Native / Recharts** (for charts)  
+- **AsyncStorage / SQLite** (for local persistence)
+
+---
+
+## 📂 Project Structure
+
