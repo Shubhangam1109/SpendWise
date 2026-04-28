@@ -32,4 +32,10 @@ It helps users manage personal and professional finances with a clean interface,
 ---
 
 ## 📂 Project Structure
-
+SpendWise/
+│── assets/          # Images, icons, fonts
+│── components/      # Reusable UI components
+│── navigation/      # App navigation setup
+│── screens/         # App screens (Dashboard, Transactions, Settings)
+│── utils/           # Helper functions
+│── App.js           # Entry point
