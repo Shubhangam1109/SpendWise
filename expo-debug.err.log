@@ -1,0 +1,30 @@
+2026-04-21T17:53:20.803Z expo:telemetry Switching strategy from detached to instant
+2026-04-21T17:53:20.958Z expo:telemetry Recording 1 event(s)
+2026-04-21T17:53:20.975Z expo:env C:\Users\Shubhangam\Desktop\spendwise\.env does not exist, skipping this env file
+2026-04-21T17:53:20.976Z expo:env C:\Users\Shubhangam\Desktop\spendwise\.env.development does not exist, skipping this env file
+2026-04-21T17:53:20.977Z expo:env C:\Users\Shubhangam\Desktop\spendwise\.env.local does not exist, skipping this env file
+2026-04-21T17:53:20.978Z expo:env C:\Users\Shubhangam\Desktop\spendwise\.env.development.local does not exist, skipping this env file
+2026-04-21T17:53:21.415Z expo:start:server:devServer Stopping dev server (bundler: metro)
+2026-04-21T17:53:21.415Z expo:start:server:devServer Stopped dev server (bundler: metro)
+2026-04-21T17:53:21.421Z expo:start:server:metro:router Using app as the root directory for Expo Router.
+2026-04-21T17:53:22.454Z expo:metro:withMetroResolvers Appending 8 custom resolvers to Metro config. (has custom resolver: false)
+2026-04-21T17:53:22.503Z expo:start:server:urlCreator URL: http://127.0.0.1:8081
+2026-04-21T17:53:22.927Z expo:start:server:middleware:serveStatic Serving static files from: C:\Users\Shubhangam\Desktop\spendwise\public
+2026-04-21T17:53:22.932Z expo:start:server:urlCreator URL: exp://127.0.0.1:8081
+2026-04-21T17:53:22.984Z expo:start:server:developmentSession Development session will not ping because the user is not authenticated and there are no devices.
+2026-04-21T17:53:22.988Z expo:start:server:metro:waitForTypescript Watching file changes: [
+  'C:\\Users\\Shubhangam\\Desktop\\spendwise\\.env.development.local',
+  'C:\\Users\\Shubhangam\\Desktop\\spendwise\\.env.local',
+  'C:\\Users\\Shubhangam\\Desktop\\spendwise\\.env.development',
+  'C:\\Users\\Shubhangam\\Desktop\\spendwise\\.env'
+]
+2026-04-21T17:53:22.989Z expo:doctor:typescriptSupport Ensuring TypeScript support is setup
+2026-04-21T17:53:23.586Z expo:doctor:dependencies:getMissingPackages Required package "typescript" found (no version constraint specified).
+2026-04-21T17:53:23.589Z expo:doctor:dependencies:getMissingPackages Required package "@types/react" found (no version constraint specified).
+2026-04-21T17:53:23.601Z expo:typed-routes Removing typed routes side-effects (experiments.typedRoutes: false)
+2026-04-21T17:53:23.839Z expo:doctor:dependencies:bundledNativeModules Fetching bundled native modules from the server...
+2026-04-21T17:53:23.934Z expo:api:fetch:proxy Using proxy: http://127.0.0.1:9
+(node:13856) [UNDICI-EHPA] Warning: EnvHttpProxyAgent is experimental, expect them to change at any time.
+(Use `node --trace-warnings ...` to show where the warning was created)
+TypeError: fetch failed
+TypeError: fetch failed

@@ -1,0 +1,15 @@
+Starting project at C:\Users\Shubhangam\Desktop\spendwise
+
+Expo Metro config:
+- Version: 54.0.14
+- Extensions: ts, tsx, mjs, js, jsx, json, cjs, scss, sass, css
+- React Native: C:\Users\Shubhangam\Desktop\spendwise\node_modules\react-native
+- Watch Folders: 
+- Node Module Paths: 
+- Sass: null
+- Reanimated: null
+- Worklets: null
+- Babel Runtime: null
+
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)

@@ -1,0 +1,27 @@
+At line:1 char:17
++ $env:HTTP_PROXY=; $env:HTTPS_PROXY=; $env:ALL_PROXY=; $env:NO_PROXY=* ...
++                 ~
+You must provide a value expression following the '=' operator.
+At line:1 char:36
++ $env:HTTP_PROXY=; $env:HTTPS_PROXY=; $env:ALL_PROXY=; $env:NO_PROXY=* ...
++                                    ~
+You must provide a value expression following the '=' operator.
+At line:1 char:53
++ $env:HTTP_PROXY=; $env:HTTPS_PROXY=; $env:ALL_PROXY=; $env:NO_PROXY=* ...
++                                                     ~
+You must provide a value expression following the '=' operator.
+At line:1 char:88
++ ... PS_PROXY=; $env:ALL_PROXY=; $env:NO_PROXY=*; $env:http_proxy=; $env:h ...
++                                                                  ~
+You must provide a value expression following the '=' operator.
+At line:1 char:107
++ ... _PROXY=; $env:NO_PROXY=*; $env:http_proxy=; $env:https_proxy=; $env:a ...
++                                                                  ~
+You must provide a value expression following the '=' operator.
+At line:1 char:124
++ ... PROXY=*; $env:http_proxy=; $env:https_proxy=; $env:all_proxy=; $env:n ...
++                                                                  ~
+You must provide a value expression following the '=' operator.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : ExpectedValueExpression
+ 

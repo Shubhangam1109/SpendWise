@@ -1,0 +1,5 @@
+
+> react-example@0.0.0 auth:server
+> tsx server/auth-server.ts
+
+SpendWise auth server running on http://localhost:4000 (warning: AUTH_TOKEN_SECRET is using default and should be changed)

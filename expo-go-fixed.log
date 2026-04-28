@@ -1,0 +1,15 @@
+
+> react-example@0.0.0 go
+> powershell -ExecutionPolicy Bypass -File scripts/start-expo-go.ps1
+
+Starting project at C:\Users\Shubhangam\OneDrive\Desktop\spendwise
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+iOS .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+iOS .\index.js ▓▓▓▓▓░░░░░░░░░░░ 36.7% (235/388)
+iOS .\index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 82.6% ( 829/2408)
+iOS .\index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 98.7% (2438/2467)
+iOS Bundled 12251ms index.js (2502 modules)
+ WARN  SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/th3rdwave/react-native-safe-area-context

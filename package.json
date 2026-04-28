@@ -1,0 +1,40 @@
+{
+  "name": "react-example",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "expo start --lan --clear",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web --port 3000",
+    "dev": "expo start --web --port 3000",
+    "go": "powershell -ExecutionPolicy Bypass -File scripts/start-expo-go.ps1",
+    "auth:server": "tsx server/auth-server.ts",
+    "clean": "rm -rf dist",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "clsx": "^2.1.0",
+    "expo": "^54.0.33",
+    "expo-status-bar": "~3.0.9",
+    "lucide-react-native": "^1.8.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-safe-area-context": "~5.6.0",
+    "react-native-svg": "15.12.1",
+    "react-native-web": "^0.21.0",
+    "tailwind-merge": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.14.0",
+    "@types/react": "~19.1.10",
+    "autoprefixer": "^10.4.21",
+    "tailwindcss": "^4.1.14",
+    "tsx": "^4.21.0",
+    "typescript": "~5.9.2",
+    "vite": "^6.2.0"
+  }
+}
